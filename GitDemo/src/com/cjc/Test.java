@@ -9,6 +9,10 @@ public class Test
 		System.out.println("Sum===Test");
 	}
 	
+	public void sub()
+	{
+		System.out.println("Sub===Test");
+	}
 	
 	public static void main(String[] args) {
 		
